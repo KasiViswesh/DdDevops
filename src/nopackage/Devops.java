@@ -4,7 +4,7 @@ public class Devops {
 		String k="Kasi";
 		int p=0;
 		for(int i=0;i<k.length();i++) {
-			p++;
+			continue;
 		}
 		System.out.println("Name is "+k+" Length of word is "+p);
 	}
